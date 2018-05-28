@@ -1,0 +1,14 @@
+{
+  "name": "microstencil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/microstencil.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
